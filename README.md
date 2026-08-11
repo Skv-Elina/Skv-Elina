@@ -1,16 +1,35 @@
-## Hi there 👋
+#!
 
-<!--
-**Skv-Elina/Skv-Elina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Меня зовут Элина, я инженер по тестированию ПО (QA). Здесь я делюсь примерами работ по тестированию веб- и мобильных приложений, выполненными в рамках учебных курсов и личных проектов. Приглашаю вас ознакомиться с моим резюме.
+
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+
+---
+
+
+
+### 🛠 Тестирование веб-приложений:
+
+
+
+---
+
+### 📱 Тестирование мобильных приложений:
+
+
+
+
+---
+
+### 💾 Работа с данными:
+
+
+---
+
+
+
+---
