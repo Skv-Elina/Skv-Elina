@@ -14,6 +14,6 @@
 
 #### [🌐 Тестирование веб-приложений](https://github.com/Skv-Elina/web-testing.git) - Тест-кейсы, чек-листы и баг-репорты
 #### [📱 Тестирование мобильных приложений](https://github.com/Skv-Elina/mobile_testing.git) - Android, UI-тестирование и баг-репорты
-#### [🔌 API-тестирование]() - REST API и Postman
+#### [🔌 API-тестирование](https://github.com/Skv-Elina/api_testing.git) - REST API и Postman
 #### [💾 Работа с данными]() - SQL и MongoDB
 
