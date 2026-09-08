@@ -6,6 +6,16 @@
 
 ---
 ## Технологии и инструменты
+[![My Skills](https://skillicons.dev/icons?i=html,css,postman,androidstudio,mysql,mongodb,vscode)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="48" height="48"/>
+<img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="48" height="48"/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="48" height="48"/>
+<img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="48" height="48"/>
+
+
+
+
+<br><br>Fiddler • DBeaver • Jira • Qase • Test IT
 
 ## Тестовые проекты и артефакты
 - [Тестирование веб-приложений](https://github.com/Skv-Elina/web-testing.git) - Тест-кейсы, чек-листы и баг-репорты
