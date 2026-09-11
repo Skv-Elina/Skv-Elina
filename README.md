@@ -13,7 +13,7 @@
 <img
   align="right"
   src="https://i.pinimg.com/1200x/d2/cf/0a/d2cf0af6fbab5d95c4f15d46b5904973.jpg"
-  height="180"
+  height="200"
   alt="QA testing"
 />
 
