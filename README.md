@@ -55,7 +55,7 @@ Python и автоматизацию тестирования.
   <a href="https:">
     <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="48" height="48" alt="Telegram"/>
   </a>
-  <a href="mailto:">
+  <a href="mailto:skv.elina.konst@gmail.com">
     <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="48" height="48" alt="Email"/>
   </a>
 </p>
