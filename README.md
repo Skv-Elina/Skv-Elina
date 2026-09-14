@@ -52,11 +52,14 @@ Python и автоматизацию тестирования.
 ## 📫 Контакты
 
 <p align="left">
-  <a href="https:">
+  <a href="https://t.me/odvit">
     <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="48" height="48" alt="Telegram"/>
   </a>
-  <a href="mailto:skv.elina.konst@gmail.com">
-    <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="48" height="48" alt="Email"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=skv.elina.konst@gmail.com">
+    <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png"
+         width="48"
+         height="48"
+         alt="Email"/>
   </a>
 </p>
 
